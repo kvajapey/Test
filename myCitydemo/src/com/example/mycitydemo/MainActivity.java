@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
     EditText un,pw;
 	TextView error;
     Button ok;
+    // Testing.
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
